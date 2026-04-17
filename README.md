@@ -1,14 +1,3 @@
-Dia 04: Implementação da Pipeline de IA e Interface Web
+Jornada Python: Do Zero ao Chatbot Inteligente
 
-Neste dia, o objetivo foi transformar a lógica de automação em um Chatbot funcional.
-
-## Qual Foi o trabalho:
-- **Configuração de Ambiente:** Instalação e ajuste de bibliotecas como `transformers`, `torch` e `chainlit`.
-- **Processamento de Linguagem Natural (NLP):** Inicialização de uma pipeline de geração de texto utilizando o modelo GPT-2 da Hugging Face.
-- **Interface de Usuário:** Criação de uma interface de chat em tempo real com Chainlit.
-
-### Como rodei tal código:
-1. Ative seu ambiente virtual (`venv`).
-2. Instale as dependências: `pip install chainlit transformers torch`.
-3. Execute o comando: `chainlit run app.py`.
-4. Registro da execução está acima do READ ME, escrito 📸 [Dia 04 downloading...]
+Este repositório documenta meu progresso no desafio de 7 dias de Python, onde estou construindo um assistente virtual completo, integrando Inteligência Artificial e interfaces modernas.
